@@ -66,6 +66,6 @@ function displayTimeLeft(seconds) {
 }
 
 function displayEndTime() {
-    endTime.textContent = `Teroare incepe la: 08:00 / 22.06.2020`;
+    endTime.textContent = `Teroare incepe la: 08:00 / 28.06.2021`;
 }
 // end timer
